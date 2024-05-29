@@ -52,7 +52,7 @@ short_description: Analyze, solve, ask ..
 
 ## 🌝The processed from the model
 
-![alt text](assets/12.png)
+![alt text](assets/22.png)
 
 ## The examples given to the model: 
 
