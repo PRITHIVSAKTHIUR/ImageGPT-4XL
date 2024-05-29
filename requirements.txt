@@ -1,0 +1,6 @@
+#flash_attn
+accelerate
+git+https://github.com/huggingface/transformers.git@main
+spaces
+torchvision
+Pillow
