@@ -13,8 +13,8 @@ import torch
 import spaces
 
 model_id = "microsoft/Phi-3-vision-128k-instruct" 
-model = AutoModelForCausalLM.from_pretrained(model_id, device_map="cuda", trust_remote_code=True, torch_dtype="auto")
-processor = AutoProcessor.from_pretrained(model_id, trust_remote_code=True) 
+##model = AutoModelForCausalLM.from_pretrained(model_id, device_map="cuda", trust_remote_code=True, torch_dtype="auto")
+##processor = AutoProcessor.from_pretrained(model_id, trust_remote_code=True) 
 model.to("cuda:0")
 
 
