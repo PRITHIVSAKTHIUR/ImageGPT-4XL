@@ -11,6 +11,8 @@ license: creativeml-openrail-m
 short_description: Analyze, solve, ask ..
 ---
 
+![alt text](assets/25.png)
+
 🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
 
 🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/ImageGPT-4XL
